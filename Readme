@@ -1,0 +1,8 @@
+This library has two parts the unnamed SKU library which will download every FTC part (updated to the most recent commit) with the name as the SKU of the part. 
+The second part of the library is the named library which uses a web scraper to attach a name to each SKU and then name the "part part name [SKU]"
+
+I have included the script I used to dowload the libararies and the SKU and name lists I used with it.
+
+All files are downloaded as STEP files.
+
+If you would like to update the library please do and recreate+publish the libary.
